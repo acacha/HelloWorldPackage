@@ -2,7 +2,7 @@
 
 require '../vendor/autoload.php';
 
-use Acacha\Hello;
+use Acacha\Hello\Hello;
 
 $hello = new Hello();
 

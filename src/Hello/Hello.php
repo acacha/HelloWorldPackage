@@ -1,6 +1,6 @@
 <?php
 
-namespace Acacha;
+namespace Acacha\Hello;
 
 class Hello
 {
