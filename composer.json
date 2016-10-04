@@ -1,0 +1,16 @@
+{
+    "name": "acacha/hello-world-package",
+    "description": "Dummy hello world package",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Sergi Tur Badenas",
+            "email": "sergiturbadenas@gmail.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {"Acacha\\": "src/"}
+    }
+}
